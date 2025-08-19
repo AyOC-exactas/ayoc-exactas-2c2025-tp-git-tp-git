@@ -1,6 +1,7 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
 
-En mi tiempo libre me gusta...
+Hola! Mi nombre es [Martin Nievas Wilberger].
 
-Mi instrucción favorita del manual de intel es...
+En mi tiempo libre me gusta aprender sobre linux
+
+Mi instrucción favorita del manual de intel es ninguna
