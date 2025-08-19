@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es Sasha
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta escuchar música
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es SHR
