@@ -1,5 +1,5 @@
 # Presentación
-Hola! Mi nombre es Sofia.
+Hola! Mi nombre es Sofia Adra.
 
 En mi tiempo libre me gusta leer.
 
