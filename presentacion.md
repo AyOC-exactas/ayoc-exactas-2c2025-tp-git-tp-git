@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es [Andreas Giacomini].
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta hacer ejercicio y cocinar.
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es... Todavia no tengo ninguna :/
